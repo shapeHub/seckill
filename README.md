@@ -1,4 +1,4 @@
-## Java高并发秒杀系统API
+## Java高并发秒杀系统API（罗毅测试）
 ## How to play
 
  1. git clone `https://github.com/codingXiaxw/seckill.git`
